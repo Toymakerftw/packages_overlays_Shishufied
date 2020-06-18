@@ -74,8 +74,10 @@ PRODUCT_PACKAGES += \
     SolarizedThemeSettingsOverlay \
     SolarizedThemeSystemUIOverlay \
     ShishuThemeAndroidOverlay \
+    ShishuThemeGMSOverlay \
     ShishuThemeSettingsOverlay \
-    ShishuThemeSystemUIOverlay
+    ShishuThemeSystemUIOverlay \
+    ShishuThemeWellbeingOverlay
 
 include packages/overlays/Shishufied/Switch/switch.mk
 include packages/overlays/Shishufied/QsThemes/qstheme.mk
