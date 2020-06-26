@@ -175,29 +175,36 @@ ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
     packages/overlays/Shishufied/ShishufiedOverlays
 endif
 
-##Quicksettings Tiles icons
-#PRODUCT_PACKAGES += \
-#	QSTileSquircle \
-#	QSTileTearDrop \
-#	QSTileCircleDual \
-#	QSTileCircleGradient \
-#	QSTileInkdrop \
-#	QSTileIconAccent \
-#	QSTileShishuNights \
-#	QSTileMemedoSquare \
-#	QSTileWavey \
-#	QSTileAttemptMountain \
-#	QSTileDottedCircle \
-#	QSTileNinja \
-#	QSTilePokesign \
-#	QSTileShishuInk \
-#    QSTileCookie \
-#    QSTileCosmos \
-#    QSTileDividedCircle \
-#    QSTileNeonLight \
-#    QSTileOxygen \
-#    QSTileTriangles
 ## DO NOT MERGE - 
 #PRODUCT_PACKAGES += \
 #    ShishuTestOv \
 #    ShishuTestOv2 
+
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QStileCircleTrim \
+    QStileDefault \
+    QStileDualToneCircle \
+    QStileSquircleTrim \
+    QStileCookie \
+    QStileAttemptMountain \
+    QStileCircleDual \
+    QStileCircleGradient \
+    QStileDottedCircle \
+    QStileNinja \
+    QStilePokesign \
+    QStileWavey \
+    QStileDiamond \
+    QStileSquaremedo \
+    QStileHexagon \
+    QStileStar \
+    QStileGear \
+    QStileCircleOutline \
+    QStileRoundedRect \
+    QStileSquare \
+    QStileSquircle \
+    QStileTeardrop \
+    QStileBadge \
+    QStileBadgetwo \
+    QStileTriangle \
+    QStileOxygen
