@@ -176,27 +176,28 @@ ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
 endif
 
 ##Quicksettings Tiles icons
-#PRODUCT_PACKAGES += \
-#	QSTileSquircle \
-#	QSTileTearDrop \
-#	QSTileCircleDual \
-#	QSTileCircleGradient \
-#	QSTileInkdrop \
-#	QSTileIconAccent \
-#	QSTileShishuNights \
-#	QSTileMemedoSquare \
-#	QSTileWavey \
-#	QSTileAttemptMountain \
-#	QSTileDottedCircle \
-#	QSTileNinja \
-#	QSTilePokesign \
-#	QSTileShishuInk \
-#    QSTileCookie \
-#    QSTileCosmos \
-#    QSTileDividedCircle \
-#    QSTileNeonLight \
-#    QSTileOxygen \
-#    QSTileTriangles
+PRODUCT_PACKAGES += \
+	QSTileSquircle \
+	QSTileTearDrop \
+	QSTileCircleDual \
+	QSTileCircleGradient \
+	QSTileInkdrop \
+	QSTileIconAccent \
+	QSTileShishuNights \
+	QSTileMemedoSquare \
+	QSTileWavey \
+	QSTileAttemptMountain \
+	QSTileDottedCircle \
+	QSTileNinja \
+	QSTilePokesign \
+	QSTileShishuInk \
+        QSTileCookie \
+        QSTileCosmos \
+        QSTileDividedCircle \
+        QSTileNeonLight \
+        QSTileOxygen \
+        QSTileTriangles
+
 ## DO NOT MERGE - 
 #PRODUCT_PACKAGES += \
 #    ShishuTestOv \
