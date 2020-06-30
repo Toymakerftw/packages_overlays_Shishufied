@@ -85,7 +85,12 @@ PRODUCT_PACKAGES += \
     ShishuThemeGMSOverlay \
     ShishuThemeSettingsOverlay \
     ShishuThemeSystemUIOverlay \
-    ShishuThemeWellbeingOverlay
+    ShishuThemeWellbeingOverlay \
+    ShishuNightsThemeAndroidOverlay \
+    ShishuNightsThemeGMSOverlay \
+    ShishuNightsThemeSettingsOverlay \
+    ShishuNightsThemeSystemUIOverlay \
+    ShishuNightsThemeWellbeingOverlay
 
 include packages/overlays/Shishufied/Switch/switch.mk
 include packages/overlays/Shishufied/QsThemes/qstheme.mk
@@ -116,12 +121,7 @@ include packages/overlays/Shishufied/QsThemes/qstheme.mk
 #    ShishuThemePhonographOverlay \
 #    ShishuThemeWellbeingOverlay \
 #    ShishuNightsThemeAndroidOverlay \
-#    ShishuNightsThemeContactsOverlay \
-#    ShishuNightsThemeDialerOverlay \
-#    ShishuNightsThemeFilesOverlay \
 #    ShishuNightsThemeGMSOverlay \
-#    ShishuNightsThemeOTAOverlay \
-#    ShishuNightsThemePhonographOverlay \
 #    ShishuNightsThemeSettingsOverlay \
 #    ShishuNightsThemeSystemUIOverlay \
 #    ShishuNightsThemeWellbeingOverlay \
