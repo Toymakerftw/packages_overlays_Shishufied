@@ -77,6 +77,9 @@ PRODUCT_PACKAGES += \
     ShishuThemeSettingsOverlay \
     ShishuThemeSystemUIOverlay
 
+include packages/overlays/Shishufied/Switch/switch.mk
+include packages/overlays/Shishufied/QsThemes/qstheme.mk
+
 # Hot garbage
 #PRODUCT_PACKAGES += \
 #    DarkThemeAndroidOverlay \
