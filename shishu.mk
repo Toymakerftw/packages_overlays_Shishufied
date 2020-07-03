@@ -90,7 +90,12 @@ PRODUCT_PACKAGES += \
     ShishuNightsThemeGMSOverlay \
     ShishuNightsThemeSettingsOverlay \
     ShishuNightsThemeSystemUIOverlay \
-    ShishuNightsThemeWellbeingOverlay
+    ShishuNightsThemeWellbeingOverlay \
+    ShishuAmalgamationThemeAndroidOverlay \
+    ShishuAmalgamationThemeGMSOverlay \
+    ShishuAmalgamationThemeSettingsOverlay \
+    ShishuAmalgamationThemeSystemUIOverlay \
+    ShishuAmalgamationThemeWellbeingOverlay
 
 include packages/overlays/Shishufied/Switch/switch.mk
 include packages/overlays/Shishufied/QsThemes/qstheme.mk
