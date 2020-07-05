@@ -81,6 +81,11 @@ PRODUCT_PACKAGES += \
     ShishuIllusionsThemeSettingsOverlay \
     ShishuIllusionsThemeSystemUIOverlay \
     ShishuIllusionsThemeWellbeingUIOverlay \
+    ShishuImmensityThemeAndroidOverlay \
+    ShishuImmensityThemeGMSOverlay \
+    ShishuImmensityThemeSettingsOverlay \
+    ShishuImmensityThemeSystemUIOverlay \
+    ShishuImmensityThemeWellbeingOverlay \
     ShishuThemeAndroidOverlay \
     ShishuThemeGMSOverlay \
     ShishuThemeSettingsOverlay \
@@ -140,7 +145,6 @@ include packages/overlays/Shishufied/QsThemes/qstheme.mk
 #    ShishuIllusionsThemeSettingsOverlay \
 #    ShishuIllusionsThemeSystemUIOverlay \
 #    ShishuIllusionsThemeWellbeingOverlay \
-#    ShishuImmensityThemeAndroidOverlay \
 #    ShishuImmensityThemeContactsOverlay \
 #    ShishuImmensityThemeDialerOverlay \
 #    ShishuImmensityThemeFilesOverlay \
