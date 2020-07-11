@@ -1,17 +1,29 @@
 # QS Tile styles
 PRODUCT_PACKAGES += \
-    QStileCircleTrim \
     QStileDefault \
-    QStileDualToneCircle \
-    QStileSquircleTrim \
-    QStileAttemptMountain \
-    QStileDottedCircle \
-    QStileNinja \
-    QStilePokesign \
-    QStileWavey \
+    QStileCircleTrim \
+    QStileCircleDualTone \
+    QStileCircleGradient \
     QStileCookie \
-    QStileInkDrop \
+    QStileCosmos \
+    QStileDividedCircle \
+    QStileDottedCircle \
+    QStileDualToneCircle \
+    QStileInk \
+    QStileInkdrop \
+    QStileJustIcons \
+    QStileMountain \
+    QStileNeonLike \
+    QStileNinja \
+    QStileOreo \
+    QStileOreoCircleTrim \
+    QStileOreoSquircleTrim \
+    QSTileOxygen \
+    QStilePokesign \
     QStileSquaremedo \
-    QStilesCircleOutline \
-    QSTileNeonLight \
-    QSTileTriangles
+    QStileSquircle \
+    QStileSquircleTrim \
+    QStileTeardrop \
+    QStileTriangle \
+    QStileWavey
+
